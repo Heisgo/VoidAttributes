@@ -6,26 +6,37 @@ This project demonstrates the use of custom attributes to enhance the Unity Insp
 
 **[ShowOnly]:**
 Displays a property as read-only in the Inspector.
+
 **[DisplayIf]:**
 Conditionally shows a property based on the value of another variable.
+
 **[Required]:**
 Ensures that reference fields (like GameObjects) are assigned, preventing runtime errors.
+
 **[LabelOverride]:**
 Overrides the default label of a property to a custom name, making your Inspector more intuitive.
+
 **[FoldoutGroup]:**
 Organizes related properties into a collapsible section, keeping the Inspector tidy.
+
 **[HorizontalLine]:**
 Inserts a customizable horizontal line to visually separate sections in the Inspector.
+
 **[InfoBox]:**
 Displays an informational message directly in the Inspector to guide or warn users.
+
 **[TooltipExtended]:**
 Provides advanced tooltips with multi-line support for clearer, more detailed explanations. It also has a more beaultiful look.
+
 **[ConditionalField]:**
 Shows or hides a property based on the value of another property (e.g., displays a string only when an integer equals 1).
+
 **[MinMaxSlider]:**
 Creates a slider in the Inspector that lets you choose a value within a specified range.
+
 **[TagSelector]:**
 Displays a dropdown for selecting tags, simplifying the process of tagging GameObjects.
+
 **[Button]:**
 Adds a clickable button in the Inspector to execute methods directly, useful for testing or debugging.
 
