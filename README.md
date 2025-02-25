@@ -96,3 +96,9 @@ public class Player : SingletonMonoBehaviour<Player>
 ```
 # Contributions
 Contributions are welcome! If you have suggestions or improvements, feel free to open issues or submit pull requests.
+
+
+
+
+
+There's a secret attribute exclusive to the unitypackage... ImprovedHeader... 
